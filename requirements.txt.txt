@@ -1,0 +1,11 @@
+torch==1.13.1+cu116
+scikit-learn==1.2.1
+numpy==1.24.1
+pandas==1.5.3
+jupyter==1.0.0
+jupyterlab==3.5.3
+ipykernel==6.20.2
+matplotlib==3.6.3
+torchvision==0.14.1
+seaborn==0.12.2
+
